@@ -1,0 +1,4 @@
+Pertemuan 1 
+
+Bahasa koding C dan C++
+Membuat kodingan Dasar menggunakan bahsa kodingan C++
